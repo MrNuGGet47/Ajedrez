@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CoordinateTests" tests="8" skipped="0" failures="0" errors="0" timestamp="2023-12-19T17:21:58" hostname="lmde5" time="0.009">
+  <properties/>
+  <testcase name="rightTest" classname="CoordinateTests" time="0.002"/>
+  <testcase name="diagonalDownLeftTest" classname="CoordinateTests" time="0.0"/>
+  <testcase name="upTest" classname="CoordinateTests" time="0.0"/>
+  <testcase name="diagonalUpLeftTest" classname="CoordinateTests" time="0.0"/>
+  <testcase name="diagonalDownRightTest" classname="CoordinateTests" time="0.0"/>
+  <testcase name="diagonalUpRightTest" classname="CoordinateTests" time="0.0"/>
+  <testcase name="downTest" classname="CoordinateTests" time="0.0"/>
+  <testcase name="leftTest" classname="CoordinateTests" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

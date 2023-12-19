@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CellTests" tests="5" skipped="0" failures="0" errors="0" timestamp="2023-12-19T17:47:51" hostname="lmde5" time="0.005">
+  <properties/>
+  <testcase name="isEmptyCellTest" classname="CellTests" time="0.002"/>
+  <testcase name="fieldCellTest" classname="CellTests" time="0.0"/>
+  <testcase name="setterCellTest" classname="CellTests" time="0.002"/>
+  <testcase name="getterCellTest" classname="CellTests" time="0.001"/>
+  <testcase name="constructorCellTest" classname="CellTests" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

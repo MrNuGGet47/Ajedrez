@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#JAVA_INTERNAL" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Introduccion a la POO/Clases y Objetos/Clases y Objetos" />
+            <option value="$PROJECT_DIR$/Introduccion a la POO/Clases y Objetos/Creando una clase" />
+            <option value="$PROJECT_DIR$/Introduccion a la POO/Instanciacion e inicializacion/Instanciando objetos" />
+            <option value="$PROJECT_DIR$/Introduccion a la POO/Introduccion/Presentacion" />
+            <option value="$PROJECT_DIR$/Introduccion a la POO/Un caso real. Ajedrez/Celda" />
+            <option value="$PROJECT_DIR$/Introduccion a la POO/Un caso real. Ajedrez/Coloreando Parte 1" />
+            <option value="$PROJECT_DIR$/Introduccion a la POO/Un caso real. Ajedrez/Coloreando Parte 2" />
+            <option value="$PROJECT_DIR$/Introduccion a la POO/Un caso real. Ajedrez/Coordenada Parte 1" />
+            <option value="$PROJECT_DIR$/Introduccion a la POO/Un caso real. Ajedrez/Coordenada Parte 2" />
+            <option value="$PROJECT_DIR$/Introduccion a la POO/Un caso real. Ajedrez/Enum" />
+            <option value="$PROJECT_DIR$/Introduccion a la POO/Un caso real. Ajedrez/JColor" />
+            <option value="$PROJECT_DIR$/Introduccion a la POO/Un caso real. Ajedrez/Pieza Part 1" />
+            <option value="$PROJECT_DIR$/Introduccion a la POO/Un caso real. Ajedrez/Tablero" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

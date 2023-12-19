@@ -1,0 +1,13 @@
+type: marketplace
+title: POO
+language: Spanish
+summary: Este es un material realizado por los docentes de programación para la segunda
+  evaluacion de los CFGS de primero de DAW/DAM del IES La Vereda de la Pobla de Vallbona
+programming_language: Java
+content:
+  - Introduccion a la POO
+mode: Study
+environment_settings:
+  jvm_language_level: JDK_1_8
+vendor:
+  name: JOAQUIN VICENTE ALONSO SAIZ
